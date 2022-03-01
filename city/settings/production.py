@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/3.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
-import django_heroku
+
 from pathlib import Path
 import os
 
@@ -32,7 +32,7 @@ SECRET_KEY = SECRET_KEY
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['find-route-city.herokuapp.com']
+ALLOWED_HOSTS = [*]
 
 # Application definition
 
@@ -141,4 +141,3 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 STATIC_ROOT = BASE_DIR.joinpath('staticfiles')
 
-django_heroku.settings(locals())
