@@ -1,58 +1,59 @@
+import export
 [
 {
   "model": "cities.city",
   "pk": 2,
   "fields": {
-    "name": "пїЅпїЅпїЅпїЅпїЅпїЅ"
+    "name": "Мадрид"
   }
 },
 {
   "model": "cities.city",
   "pk": 5,
   "fields": {
-    "name": "пїЅпїЅпїЅпїЅпїЅпїЅ"
+    "name": "Лондон"
   }
 },
 {
   "model": "cities.city",
   "pk": 7,
   "fields": {
-    "name": "пїЅпїЅпїЅпїЅпїЅ"
+    "name": "Париж"
   }
 },
 {
   "model": "cities.city",
   "pk": 10,
   "fields": {
-    "name": "пїЅпїЅпїЅпїЅпїЅпїЅ"
+    "name": "Москва"
   }
 },
 {
   "model": "cities.city",
   "pk": 11,
   "fields": {
-    "name": "пїЅпїЅпїЅпїЅпїЅ"
+    "name": "Минск"
   }
 },
 {
   "model": "cities.city",
   "pk": 12,
   "fields": {
-    "name": "пїЅпїЅпїЅпїЅпїЅпїЅ"
+    "name": "Гомель"
   }
 },
 {
   "model": "cities.city",
   "pk": 13,
   "fields": {
-    "name": "пїЅпїЅпїЅпїЅ"
+    "name": "Берн"
   }
 },
 {
   "model": "cities.city",
   "pk": 14,
   "fields": {
-    "name": "пїЅпїЅпїЅпїЅпїЅ"
+    "name": "Брест"
   }
 },
 {
